@@ -7,18 +7,14 @@ NBA
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+新能源汽车
+自动驾驶
 
 比亚迪
 王传福
 
 电影
 电视剧
-
-新能源汽车
 
 京东
 刘强东
@@ -27,8 +23,16 @@ HarmonyOS
 bytedance
 张一鸣
 
+华为
+鸿蒙
+HarmonyOS
+任正非
+
 特斯拉
 马斯克
+
+雷军
+小米
 
 微软
 Microsoft
@@ -55,12 +59,11 @@ iphone
 ipad
 mac
 ios
+手机
 
 ai
 !gai
 人工智能
-
-自动驾驶
 
 机器人
 
@@ -89,3 +92,5 @@ ai
 宇宙
 飞船
 航空
+
+王者荣耀
